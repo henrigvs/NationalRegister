@@ -18,7 +18,7 @@ If # of a name > n/2 (the program return this name, if not it return null)
 
 Typically, the test ressource present itself like this :
 
-4\n
+4
 7
 
 Leclercq Peeters Martin Peeters Peeters Dubois Peeters
