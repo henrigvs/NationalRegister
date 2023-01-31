@@ -1,5 +1,5 @@
 # NationalRegister
-This is a project developed for the course of Algorithmic II (BAC3) at University of Namur.
+This is a project developed for the course of Algorithmic II (BAC3) at University of Namur in 2022.
 
 
 The program takes in entry a file with lists of names :
