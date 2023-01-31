@@ -6,7 +6,7 @@ The program takes in entry a file with lists of names :
 
 First line : Number of tests
 
-Nexts lines : the test
+Nexts lines : the tests
 
 => For each test, the first line correspond at the number of words in the test
 
