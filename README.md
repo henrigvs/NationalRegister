@@ -12,3 +12,5 @@ If # of a name > n/2 (the program return this name, if not it return null)
 2 kinds of algorithm are present :
 - A iterative algorithm (naive algo)
 - A recursive algorithm (Divide&Conquer => boosted by Dynamic Programming with a hashtable caching the datas)
+
+The entire code is specified with openJML
